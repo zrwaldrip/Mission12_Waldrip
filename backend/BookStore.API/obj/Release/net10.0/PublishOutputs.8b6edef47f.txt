@@ -1,6 +1,12 @@
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/BookStore.API
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/publish/web.config
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/appsettings.Development.json
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/appsettings.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/publish/appsettings.Development.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/publish/appsettings.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/publish/BookStore.API.deps.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/publish/BookStore.API.runtimeconfig.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/publish/BookStore.API.staticwebassets.endpoints.json
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/Bookstore.sqlite
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/BookStore.API.dll
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/publish/BookStore.API.deps.json

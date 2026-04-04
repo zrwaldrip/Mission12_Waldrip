@@ -65,3 +65,9 @@
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/obj/Release/net10.0/BookStore.API.pdb
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/obj/Release/net10.0/BookStore.API.genruntimeconfig.cache
 /Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/obj/Release/net10.0/ref/BookStore.API.dll
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/bin/Release/net10.0/publish/web.config
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/bin/Release/net10.0/publish/appsettings.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/bin/Release/net10.0/publish/BookStore.API.deps.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/bin/Release/net10.0/publish/BookStore.API.runtimeconfig.json
+/Users/zacharywaldrip/IS413/Mission12_Waldrip/backend/BookStore.API/bin/Release/net10.0/publish/BookStore.API.staticwebassets.endpoints.json
