@@ -15,6 +15,9 @@ function Navbar() {
             <Link className="nav-link" to="/">
               Books
             </Link>
+            <Link className="nav-link" to="/admin">
+              Admin
+            </Link>
             <Link className="nav-link" to="/cart">
               Cart{" "}
               {itemCount > 0 ? (

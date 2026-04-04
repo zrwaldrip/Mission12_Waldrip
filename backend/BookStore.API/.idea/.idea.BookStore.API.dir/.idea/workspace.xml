@@ -9,26 +9,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49e3eb58-9c40-4f6f-8350-eed61bf2df47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/BookController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookStore.API.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookStore.API.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStore.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BookStore.API.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net10.0/BookStore.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net10.0/BookStore.API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net10.0/BookStore.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net10.0/BookStore.API.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/BookStore.API.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/ref/BookStore.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/ref/BookStore.API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/refint/BookStore.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/refint/BookStore.API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/src/BookList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +38,12 @@
     &quot;assignee&quot;: &quot;zrwaldrip&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/zrwaldrip/Mission12_Waldrip.git",
-    "accountId": "db9a3db0-6e8b-4c2a-8ff5-8c6b6d8c1507"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zrwaldrip/Mission12_Waldrip.git&quot;,
+    &quot;accountId&quot;: &quot;db9a3db0-6e8b-4c2a-8ff5-8c6b6d8c1507&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -58,24 +52,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/zacharywaldrip/IS413/Mission11_Waldrip/backend/BookStore.API",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zacharywaldrip/IS413/Mission11_Waldrip/backend/BookStore.API&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BookStore.API: http">
     <configuration name="BookStore.API: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BookStore.API.csproj" />
@@ -123,6 +117,7 @@
       <workItem from="1774067537722" duration="125000" />
       <workItem from="1774067665038" duration="128000" />
       <workItem from="1774494970606" duration="3390000" />
+      <workItem from="1775073719360" duration="30000" />
     </task>
     <servers />
   </component>

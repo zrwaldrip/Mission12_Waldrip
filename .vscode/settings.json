@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/d339ea8a-c9a1-4469-8cfd-634856afba10/resourceGroups/appsvc_windows_eastus/providers/Microsoft.Web/sites/Bookstore-Waldrip-Backend",
+  "appService.deploySubpath": "backend/BookStore.API/publish"
+}
