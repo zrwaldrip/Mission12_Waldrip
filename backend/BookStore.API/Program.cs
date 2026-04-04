@@ -12,7 +12,14 @@ builder.Services.AddOpenApi();
 builder.Services.AddDbContext<BooksDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("BookConnection")));
 
-builder.Services.AddCors();
+builder.Services.AddCors(options => 
+    options.AddPolicy("AllowReactApp",
+    policy => 
+    {
+        policy.WithOrigins("https://purple-wave-0042dc11e.7.azurestaticapps.net")
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+    }));
 
 var app = builder.Build();
 
@@ -24,11 +31,7 @@ if (app.Environment.IsDevelopment())
 }
 // Allow the React dev server (Vite) regardless of which localhost port it picked.
 // This avoids "TypeError: Failed to fetch" caused by CORS blocking.
-app.UseCors(x => x
-    .SetIsOriginAllowed(origin =>
-        origin.StartsWith("http://localhost:") || origin.StartsWith("http://127.0.0.1:"))
-    .AllowAnyHeader()
-    .AllowAnyMethod());
+app.UseCors("AllowReactApp");
 
 app.UseHttpsRedirection();
 
