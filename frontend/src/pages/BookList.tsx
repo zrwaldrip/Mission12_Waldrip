@@ -39,7 +39,7 @@ function BookList() {
             )}`
           : "";
       const response = await fetch(
-        `https://localhost:7169/api/Book/AllBooks?pageSize=${pageSize}&pageNum=${pageNum}&sortAsc=${sortAsc}${categoriesParam}`
+        `https://waterproject-waldrip-backend-dzgqcydxfdeca4ah.centralus-01.azurewebsites.net/api/Book/AllBooks?pageSize=${pageSize}&pageNum=${pageNum}&sortAsc=${sortAsc}${categoriesParam}`
       );
       const data = await response.json();
       const rawBooks = (data.books ?? []) as Record<string, unknown>[];
