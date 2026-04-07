@@ -1,6 +1,6 @@
 import type { Book } from "../types/Book";
 
-const API_URL = "https://waterproject-waldrip-backend-dzgqcydxfdeca4ah.centralus-01.azurewebsites.net/api/Book";
+const API_URL = "https://bookstore-waldrip-backend-fneddpauhuezawar.eastus-01.azurewebsites.net/api/Book";
 
 export interface FetchBooksForAdminResponse {
   books: Book[];

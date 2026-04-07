@@ -24,7 +24,7 @@ export default function CategoryFilter({
         setError(null);
 
         const response = await fetch(
-          "https://waterproject-waldrip-backend-dzgqcydxfdeca4ah.centralus-01.azurewebsites.net/api/Book/GetCategories"
+          "https://bookstore-waldrip-backend-fneddpauhuezawar.eastus-01.azurewebsites.net/api/Book/GetCategories"
         );
 
         if (!response.ok) {
